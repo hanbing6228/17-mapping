@@ -1,6 +1,6 @@
 Visualizing Data with Leaflet
 
-### DEMO: https://hanbing6228.github.io/17-mapping/
+### DEMO: https://hanbing6228.github.io/USG-survey---mapping/
 
 ## Background
 
